@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-06 | **Hardening AWS EKS Pod Identity: Blue Team Defense Guide** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-aws-eks-pod-identity-blue.html) |
 | 2026-10-06 | **AWS EKS Pod Identity: Deconstructing Workload Token Interception** | `Cloud Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/aws-eks-pod-identity-deconstructing.html) |
 | 2026-10-06 | **Hardening LiteLLM AI Gateway: Blue Team Defense Guide** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-litellm-ai-gateway-blue-team.html) |
 | 2026-10-05 | **LiteLLM: Deconstructing AI Gateway MCP RCE Chain** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/litellm-deconstructing-ai-gateway-mcp.html) |
