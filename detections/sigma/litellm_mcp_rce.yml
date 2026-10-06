@@ -1,0 +1,35 @@
+title: LiteLLM AI Gateway MCP Remote Code Execution Execution
+id: c71b8941-89d2-4e0a-b32f-litellm-mcp-rce
+status: experimental
+description: Detects unexpected process spawning from LiteLLM proxy containers or services indicative of MCP tool invocation command injection.
+references:
+  - https://blogs.redwan.work/2026/10/litellm-deconstructing-ai-gateway-mcp.html
+  - https://blogs.redwan.work/2026/10/hardening-litellm-ai-gateway-blue-team.html
+author: Md. Redwan Ahmed (Fast Cyber Defense)
+date: 2026/10/05
+tags:
+  - attack.execution
+  - attack.t1059.006
+  - attack.initial_access
+  - attack.t1190
+logsource:
+  product: linux
+  category: process_creation
+detection:
+  selection_parent:
+    ParentImage|endswith:
+      - '/python'
+      - '/python3'
+      - '/uvicorn'
+  selection_commands:
+    Image|endswith:
+      - '/sh'
+      - '/bash'
+      - '/curl'
+      - '/wget'
+      - '/nc'
+      - '/ncat'
+  condition: selection_parent and selection_commands
+falsepositives:
+  - Container initialization scripts or approved external MCP plugins with shell capabilities.
+level: critical

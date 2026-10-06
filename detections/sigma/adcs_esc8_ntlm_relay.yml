@@ -1,0 +1,30 @@
+title: AD CS ESC8 NTLM Relay To HTTP Web Enrollment
+id: e4b29c11-9a71-4a1d-b87e-adcs-esc8-relay
+status: experimental
+description: Detects suspicious inbound NTLM authentication to AD CS Web Enrollment HTTP endpoints indicative of ESC8 relay attacks.
+references:
+  - https://blogs.redwan.work/2026/10/ad-cs-esc8-deconstructing-ntlm-relay-to.html
+  - https://blogs.redwan.work/2026/10/hardening-ad-cs-web-enrollment-blue.html
+author: Md. Redwan Ahmed (Fast Cyber Defense)
+date: 2026/10/01
+tags:
+  - attack.credential_access
+  - attack.t1187
+  - attack.privilege_escalation
+  - attack.t1649
+logsource:
+  product: windows
+  service: security
+detection:
+  selection_logon:
+    EventID: 4624
+    LogonType: 3 # Network Logon
+    AuthenticationPackageName: 'NTLM'
+  selection_target:
+    TargetServerName|contains: 'certsrv'
+  filter_local:
+    WorkstationName: ''
+  condition: selection_logon and selection_target and not filter_local
+falsepositives:
+  - Legacy applications authenticating via NTLM to IIS CertSrv without EPA configured.
+level: high
