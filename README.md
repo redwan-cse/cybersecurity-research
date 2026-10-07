@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-07 | **Hardening GitLab CI/CD: Blue Team Pipeline Defense Guide** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-gitlab-cicd-blue-team.html) |
 | 2026-10-07 | **GitLab: Deconstructing CI/CD Pipeline Impersonation** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/gitlab-deconstructing-cicd-pipeline.html) |
 | 2026-10-06 | **Hardening AWS EKS Pod Identity: Blue Team Defense Guide** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-aws-eks-pod-identity-blue.html) |
 | 2026-10-06 | **AWS EKS Pod Identity: Deconstructing Workload Token Interception** | `Cloud Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/aws-eks-pod-identity-deconstructing.html) |
