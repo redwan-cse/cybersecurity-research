@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-09 | **Linux OverlayFS: Deconstructing CVE-2023-0386 SUID Privilege Escalation** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/linux-overlayfs-deconstructing-cve-2023.html) |
 | 2026-10-08 | **Hardening Active Directory Kerberos: PAC Validation & Diamond Ticket Defense** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-kerberos-pac.html) |
 | 2026-10-08 | **Kerberos Diamond Ticket: Deconstructing TGT Forgery Architecture** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/kerberos-diamond-ticket-deconstructing.html) |
 | 2026-10-07 | **Hardening GitLab CI/CD: Blue Team Pipeline Defense Guide** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-gitlab-cicd-blue-team.html) |
