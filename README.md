@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-11 | **Hardening Entra ID: Blue Team Token Protection Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-entra-id-blue-team-token.html) |
 | 2026-10-11 | **Entra ID Primary Refresh Token: Deconstructing Pass-the-PRT** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/entra-id-primary-refresh-token.html) |
 | 2026-10-10 | **Hardening Check Point Gateways: Blue Team Defense Guide** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-check-point-gateways-blue.html) |
 | 2026-10-10 | **Check Point Quantum Gateway: CVE-2024-24919 Traversal** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/check-point-quantum-gateway-cve-2024.html) |
