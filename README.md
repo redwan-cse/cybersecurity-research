@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-12 | **CrewAI CVE-2026-2275: Deconstructing Agent RCE Chains** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/crewai-cve-2026-2275-deconstructing.html) |
 | 2026-10-11 | **Hardening Entra ID: Blue Team Token Protection Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-entra-id-blue-team-token.html) |
 | 2026-10-11 | **Entra ID Primary Refresh Token: Deconstructing Pass-the-PRT** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/entra-id-primary-refresh-token.html) |
 | 2026-10-10 | **Hardening Check Point Gateways: Blue Team Defense Guide** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-check-point-gateways-blue.html) |
