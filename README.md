@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-13 | **AWS IAM Privilege Escalation: Deconstructing PassRole Abuse** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/aws-iam-privilege-escalation.html) |
 | 2026-10-12 | **Hardening CrewAI: Blue Team AI Agent Sandbox Guide** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-crewai-blue-team-ai-agent.html) |
 | 2026-10-12 | **CrewAI CVE-2026-2275: Deconstructing Agent RCE Chains** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/crewai-cve-2026-2275-deconstructing.html) |
 | 2026-10-11 | **Hardening Entra ID: Blue Team Token Protection Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-entra-id-blue-team-token.html) |
