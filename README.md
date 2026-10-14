@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-14 | **Sonatype Nexus 3: Deconstructing CVE-2024-4956 Traversal to RCE** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/sonatype-nexus-3-deconstructing-cve.html) |
 | 2026-10-13 | **Hardening AWS IAM: Blue Team PassRole Defense Guide** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-aws-iam-blue-team-passrole.html) |
 | 2026-10-13 | **AWS IAM Privilege Escalation: Deconstructing PassRole Abuse** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/aws-iam-privilege-escalation.html) |
 | 2026-10-12 | **Hardening CrewAI: Blue Team AI Agent Sandbox Guide** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-crewai-blue-team-ai-agent.html) |
