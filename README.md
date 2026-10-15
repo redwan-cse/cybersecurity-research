@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-15 | **Active Directory DPAPI: Deconstructing Domain Backup Key Theft** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/active-directory-dpapi-deconstructing.html) |
 | 2026-10-14 | **Hardening Sonatype Nexus 3: Blue Team Supply Chain Defense Guide** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-sonatype-nexus-3-blue-team.html) |
 | 2026-10-14 | **Sonatype Nexus 3: Deconstructing CVE-2024-4956 Traversal to RCE** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/sonatype-nexus-3-deconstructing-cve.html) |
 | 2026-10-13 | **Hardening AWS IAM: Blue Team PassRole Defense Guide** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-aws-iam-blue-team-passrole.html) |
