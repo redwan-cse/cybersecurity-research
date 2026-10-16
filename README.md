@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-16 | **runc CVE-2024-21626: Deconstructing Leaky Vessels Container Escape** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/runc-cve-2024-21626-deconstructing.html) |
 | 2026-10-15 | **Hardening Active Directory: Blue Team DPAPI Defense Guide** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team.html) |
 | 2026-10-15 | **Active Directory DPAPI: Deconstructing Domain Backup Key Theft** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/active-directory-dpapi-deconstructing.html) |
 | 2026-10-14 | **Hardening Sonatype Nexus 3: Blue Team Supply Chain Defense Guide** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-sonatype-nexus-3-blue-team.html) |
