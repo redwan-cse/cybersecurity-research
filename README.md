@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-19 | **LangGraph: Deconstructing Agent Memory Poisoning RCE** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/langgraph-deconstructing-agent-memory.html) |
 | 2026-10-18 | **Hardening Windows ETW: Blue Team Telemetry Blinding Defense Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-windows-etw-blue-team.html) |
 | 2026-10-18 | **Windows ETW: Deconstructing EtwEventWrite Telemetry Blinding** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/windows-etw-deconstructing.html) |
 | 2026-10-17 | **Hardening Cisco IOS XE: Blue Team Web UI Zero-Day Defense Guide** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-cisco-ios-xe-blue-team-web-ui.html) |
