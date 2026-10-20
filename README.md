@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-20 | **Kubernetes Ingress-NGINX: Deconstructing Annotation Injection RCE** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/kubernetes-ingress-nginx-deconstructing.html) |
 | 2026-10-19 | **Hardening LangGraph Agents: Blue Team Memory Poisoning Defense Guide** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-langgraph-agents-blue-team.html) |
 | 2026-10-19 | **LangGraph: Deconstructing Agent Memory Poisoning RCE** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/langgraph-deconstructing-agent-memory.html) |
 | 2026-10-18 | **Hardening Windows ETW: Blue Team Telemetry Blinding Defense Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-windows-etw-blue-team.html) |
