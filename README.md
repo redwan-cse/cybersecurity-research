@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-21 | **Git SCM: Deconstructing CVE-2024-32002 Submodule Hook RCE** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/git-scm-deconstructing-cve-2024-32002.html) |
 | 2026-10-20 | **Hardening Kubernetes Ingress: Blue Team Ingress-NGINX Defense Guide** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-kubernetes-ingress-blue-team.html) |
 | 2026-10-20 | **Kubernetes Ingress-NGINX: Deconstructing Annotation Injection RCE** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/kubernetes-ingress-nginx-deconstructing.html) |
 | 2026-10-19 | **Hardening LangGraph Agents: Blue Team Memory Poisoning Defense Guide** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-langgraph-agents-blue-team.html) |
