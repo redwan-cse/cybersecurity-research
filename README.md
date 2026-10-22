@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-22 | **Active Directory: Deconstructing Unconstrained Delegation Takeover** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/active-directory-deconstructing.html) |
 | 2026-10-21 | **Hardening Git SCM: Blue Team Submodule Hook RCE Defense Guide** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-git-scm-blue-team-submodule.html) |
 | 2026-10-21 | **Git SCM: Deconstructing CVE-2024-32002 Submodule Hook RCE** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/git-scm-deconstructing-cve-2024-32002.html) |
 | 2026-10-20 | **Hardening Kubernetes Ingress: Blue Team Ingress-NGINX Defense Guide** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-kubernetes-ingress-blue-team.html) |
