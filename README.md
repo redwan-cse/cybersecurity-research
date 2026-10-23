@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-23 | **Hardening Linux Dynamic Linker: glibc CVE-2023-4911 Blue Team Guide** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-linux-dynamic-linker-glibc.html) |
 | 2026-10-23 | **glibc: Deconstructing CVE-2023-4911 Looney Tunables LPE** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/glibc-deconstructing-cve-2023-4911.html) |
 | 2026-10-22 | **Hardening Active Directory: Blue Team Unconstrained Delegation Guide** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team_01867136293.html) |
 | 2026-10-22 | **Active Directory: Deconstructing Unconstrained Delegation Takeover** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/active-directory-deconstructing.html) |
