@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-24 | **Hardening ConnectWise ScreenConnect: Blue Team CVE-2024-1709 Defense** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) |
 | 2026-10-24 | **ScreenConnect: Threat Modeling CVE-2024-1709 Pre-Auth RCE** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/screenconnect-threat-modeling-cve-2024.html) |
 | 2026-10-23 | **Hardening Linux Dynamic Linker: glibc CVE-2023-4911 Blue Team Guide** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-linux-dynamic-linker-glibc.html) |
 | 2026-10-23 | **glibc: Deconstructing CVE-2023-4911 Looney Tunables LPE** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/glibc-deconstructing-cve-2023-4911.html) |
