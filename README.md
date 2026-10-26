@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-26 | **AutoGen: Threat Modeling Multi-Agent Sandbox Escapes** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) |
 | 2026-10-25 | **Hardening Windows LSASS: Blue Team PPL & Credential Guard Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-windows-lsass-blue-team-ppl.html) |
 | 2026-10-25 | **Windows LSASS: Deconstructing PPL Bypasses and Memory Dump Forensics** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/windows-lsass-deconstructing-ppl.html) |
 | 2026-10-24 | **Hardening ConnectWise ScreenConnect: Blue Team CVE-2024-1709 Defense** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-connectwise-screenconnect.html) |
