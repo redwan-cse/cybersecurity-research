@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-27 | **AWS EKS IRSA: Deconstructing OIDC Federation & IAM Escalation** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/aws-eks-irsa-deconstructing-oidc.html) |
 | 2026-10-26 | **Hardening Microsoft AutoGen: Blue Team Multi-Agent Sandbox Guide** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-microsoft-autogen-blue-team.html) |
 | 2026-10-26 | **AutoGen: Threat Modeling Multi-Agent Sandbox Escapes** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/autogen-threat-modeling-multi-agent.html) |
 | 2026-10-25 | **Hardening Windows LSASS: Blue Team PPL & Credential Guard Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-windows-lsass-blue-team-ppl.html) |
