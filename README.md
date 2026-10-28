@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-28 | **GitLab: Threat Modeling CVE-2024-6385 CI/CD Pipeline Takeover** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/gitlab-threat-modeling-cve-2024-6385.html) |
 | 2026-10-27 | **Hardening AWS EKS IRSA: Blue Team OIDC & Pod Identity Guide** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-aws-eks-irsa-blue-team-oidc.html) |
 | 2026-10-27 | **AWS EKS IRSA: Deconstructing OIDC Federation & IAM Escalation** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/aws-eks-irsa-deconstructing-oidc.html) |
 | 2026-10-26 | **Hardening Microsoft AutoGen: Blue Team Multi-Agent Sandbox Guide** | `AI Security & AI Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-microsoft-autogen-blue-team.html) |
