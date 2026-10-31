@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-10-31 | **F5 BIG-IP TMUI: Deconstructing AJP Smuggling RCE** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/f5-big-ip-tmui-deconstructing-ajp.html) |
 | 2026-10-30 | **Hardening Linux Kernel: Blue Team CVE-2024-36971 Defense Guide** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-linux-kernel-blue-team-cve.html) |
 | 2026-10-30 | **Linux Kernel CVE-2024-36971: Route Cache UAF Exploitation** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/linux-kernel-cve-2024-36971-route-cache.html) |
 | 2026-10-29 | **Hardening Active Directory: Blue Team Kerberos Diamond Ticket Defense** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/10/hardening-active-directory-blue-team_01245094533.html) |
