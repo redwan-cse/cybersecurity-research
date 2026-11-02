@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-02 | **Flowise AI CVE-2024-58351: overrideConfig Agent RCE** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/flowise-ai-cve-2024-58351.html) |
 | 2026-11-02 | **Windows Token Defense: SeImpersonate Hardening Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-defense-seimpersonate.html) |
 | 2026-11-01 | **Hardening Windows Services: Blue Team Defense Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) |
 | 2026-11-01 | **Windows Token Impersonation: Deconstructing SeImpersonatePrivilege** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) |
