@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-02 | **Windows Token Defense: SeImpersonate Hardening Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-defense-seimpersonate.html) |
 | 2026-11-01 | **Hardening Windows Services: Blue Team Defense Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-windows-services-blue-team.html) |
 | 2026-11-01 | **Windows Token Impersonation: Deconstructing SeImpersonatePrivilege** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-token-impersonation.html) |
 | 2026-10-31 | **Hardening F5 BIG-IP TMUI: Blue Team Defense Guide** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hardening-f5-big-ip-tmui-blue-team.html) |
