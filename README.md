@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-04 | **BuildKit Defense: CVE-2024-23651 Hardening Guide** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/buildkit-defense-cve-2024-23651.html) |
 | 2026-11-04 | **BuildKit CVE-2024-23651: Mount Cache Container Breakout** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/buildkit-cve-2024-23651-mount-cache.html) |
 | 2026-11-03 | **Flowise AI Defense: CVE-2024-58351 Hardening Guide** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/flowise-ai-defense-cve-2024-58351.html) |
 | 2026-11-03 | **AWS ECS Defense: Task Definition Hardening Guide** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/aws-ecs-defense-task-definition.html) |
