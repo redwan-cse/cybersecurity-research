@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-08 | **Process Hollowing Forensics: PEB & VAD Memory Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) |
 | 2026-11-07 | **PAN-OS CVE-2024-3400: GlobalProtect Command Injection** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/pan-os-cve-2024-3400-globalprotect.html) |
 | 2026-11-06 | **Linux io_uring Defense: CVE-2024-0582 Hardening Guide** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-iouring-defense-cve-2024-0582.html) |
 | 2026-11-06 | **Linux Kernel CVE-2024-0582: io_uring UAF Exploitation** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-0582-iouring-uaf.html) |
