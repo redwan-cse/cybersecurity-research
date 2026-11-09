@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-09 | **LlamaIndex CVE-2024-3098: PandasQueryEngine RCE Guide** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/llamaindex-cve-2024-3098.html) |
 | 2026-11-08 | **Process Hollowing Defense: Memory Hardening Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-defense-memory.html) |
 | 2026-11-08 | **Process Hollowing Forensics: PEB & VAD Memory Guide** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/process-hollowing-forensics-peb-vad.html) |
 | 2026-11-07 | **PAN-OS CVE-2024-3400: GlobalProtect Command Injection** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/pan-os-cve-2024-3400-globalprotect.html) |
