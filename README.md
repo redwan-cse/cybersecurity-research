@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-12 | **AD CS ESC13: OID Group Link Privilege Escalation** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ad-cs-esc13-oid-group-link-privilege.html) |
 | 2026-11-11 | **Docker Defense: CVE-2024-41110 AuthZ Hardening Guide** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/docker-defense-cve-2024-41110-authz.html) |
 | 2026-11-11 | **Docker Engine CVE-2024-41110: AuthZ Plugin Bypass** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/docker-engine-cve-2024-41110-authz.html) |
 | 2026-11-10 | **LlamaIndex Defense: CVE-2024-3098 Hardening Guide** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/llamaindex-defense-cve-2024-3098.html) |
