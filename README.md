@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-15 | **BYOVD Defense: Kernel Callback & Driver Hardening** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/byovd-defense-kernel-callback-driver.html) |
 | 2026-11-15 | **Windows BYOVD: Kernel Callback Blinding Forensics** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/windows-byovd-kernel-callback-blinding.html) |
 | 2026-11-14 | **FortiManager Defense: CVE-2024-47575 Hardening Guide** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/fortimanager-defense-cve-2024-47575.html) |
 | 2026-11-14 | **FortiManager CVE-2024-47575: FortiJump RCE Analysis** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/fortimanager-cve-2024-47575-fortijump.html) |
