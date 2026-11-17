@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-17 | **vLLM Defense: CVE-2024-11041 Pickle Hardening Guide** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vllm-defense-cve-2024-11041-pickle.html) |
 | 2026-11-17 | **Linux Kernel KSMBD: CVE-2022-47939 Kernel RCE Guide** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-ksmbd-cve-2022-47939.html) |
 | 2026-11-16 | **vLLM CVE-2024-11041: MessageQueue Pickle RCE Guide** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vllm-cve-2024-11041-messagequeue-pickle.html) |
 | 2026-11-15 | **BYOVD Defense: Kernel Callback & Driver Hardening** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/byovd-defense-kernel-callback-driver.html) |
