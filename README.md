@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-19 | **HashiCorp Vault CVE-2025-6000: Audit Plugin RCE** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hashicorp-vault-cve-2025-6000-audit.html) |
 | 2026-11-19 | **LDAPNightmare CVE-2024-49113: DC Zero-Click Exploit** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ldapnightmare-cve-2024-49113-dc-zero.html) |
 | 2026-11-18 | **GitHub Actions Defense: CVE-2025-30066 Hardening** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/github-actions-defense-cve-2025-30066.html) |
 | 2026-11-18 | **GitHub Actions CVE-2025-30066: Tag Hijack RCE** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/github-actions-cve-2025-30066-tag.html) |
