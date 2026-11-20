@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-20 | **Linux nf_tables Defense: CVE-2024-1086 Hardening** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-nftables-defense-cve-2024-1086.html) |
 | 2026-11-20 | **Linux Kernel CVE-2024-1086: nf_tables Double-Free** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kernel-cve-2024-1086-nftables.html) |
 | 2026-11-19 | **LDAPNightmare Defense: CVE-2024-49113 Hardening** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ldapnightmare-defense-cve-2024-49113.html) |
 | 2026-11-19 | **HashiCorp Vault CVE-2025-6000: Audit Plugin RCE** | `Cloud & Infrastructure Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/hashicorp-vault-cve-2025-6000-audit.html) |
