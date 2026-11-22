@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-22 | **vCenter CVE-2026-123890 Defense: vmdir & STS Hardening** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vcenter-cve-2026-123890-defense-vmdir.html) |
 | 2026-11-22 | **VMware vCenter CVE-2026-123890: vmdir SRP-6a Bypass** | `DFIR & Architecture` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/vmware-vcenter-cve-2026-123890-vmdir.html) |
 | 2026-11-21 | **Ivanti CVE-2025-0282 Defense: RESURGE & ICT Hardening** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ivanti-cve-2025-0282-defense-resurge.html) |
 | 2026-11-21 | **Ivanti Connect Secure CVE-2025-0282: IF-T/TLS RCE** | `Threat Research & OSINT` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/ivanti-connect-secure-cve-2025-0282-if.html) |
