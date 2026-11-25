@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-25 | **Langflow CVE-2026-93680 Defense: MCP & Sandbox Guide** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/langflow-cve-2026-93680-defense-mcp.html) |
 | 2026-11-25 | **NGINX2Root CVE-2026-123007 Defense: HTTP/2 & K8s** | `Cloud & Infra Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-defense.html) |
 | 2026-11-24 | **NGINX2Root CVE-2026-123007: HTTP/2 Integer Underflow** | `Cloud & Infra Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-http2.html) |
 | 2026-11-24 | **Langflow CVE-2026-93680: MCP Auth Bypass & RCE** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/langflow-cve-2026-93680-mcp-auth-bypass.html) |
