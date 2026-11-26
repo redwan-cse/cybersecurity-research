@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-26 | **Java4Shell CVE-2026-114938 Defense: JVM & CI/CD** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-defense-jvm.html) |
 | 2026-11-25 | **Java4Shell CVE-2026-114938: Jenkins & OpenJDK RCE** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-jenkins.html) |
 | 2026-11-25 | **Langflow CVE-2026-93680 Defense: MCP & Sandbox Guide** | `AI Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/langflow-cve-2026-93680-defense-mcp.html) |
 | 2026-11-25 | **NGINX2Root CVE-2026-123007 Defense: HTTP/2 & K8s** | `Cloud & Infra Security` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/nginx2root-cve-2026-123007-defense.html) |
