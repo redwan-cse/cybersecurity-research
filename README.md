@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-27 | **SonicWall CVE-2026-19868 Defense: SAML & IdP Hunt** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-defense-saml.html) |
 | 2026-11-26 | **SonicWall CVE-2026-19868: SAML & MFA Auth Bypass** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-saml-mfa-auth.html) |
 | 2026-11-26 | **Java4Shell CVE-2026-114938 Defense: JVM & CI/CD** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-defense-jvm.html) |
 | 2026-11-25 | **Java4Shell CVE-2026-114938: Jenkins & OpenJDK RCE** | `DevSecOps` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/java4shell-cve-2026-114938-jenkins.html) |
