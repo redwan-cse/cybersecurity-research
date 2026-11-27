@@ -42,6 +42,7 @@ Every research entry follows **The Rule of Pairs**:
 <!-- RESEARCH-CATALOG-START -->
 | Date | Research Publication | Category | Full Technical Writeup |
 |---|---|---|---|
+| 2026-11-27 | **Linux KVM CVE-2026-99312 Defense: SVM & Host Guide** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kvm-cve-2026-99312-defense-svm.html) |
 | 2026-11-27 | **Linux KVM CVE-2026-99312: AMD Nested SVM Escape** | `Systems & Platform Engineering` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/linux-kvm-cve-2026-99312-amd-nested-svm.html) |
 | 2026-11-27 | **SonicWall CVE-2026-19868 Defense: SAML & IdP Hunt** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-defense-saml.html) |
 | 2026-11-26 | **SonicWall CVE-2026-19868: SAML & MFA Auth Bypass** | `Offensive Security & Identity` | [Read Full Analysis & Threat Model](https://blogs.redwan.work/2026/11/sonicwall-cve-2026-19868-saml-mfa-auth.html) |
